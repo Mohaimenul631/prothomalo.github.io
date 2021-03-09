@@ -1,0 +1,264 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.long-wided-ad{
+	text-align: center;
+	margin-top: 30px;
+}
+
+#top-heading-section{
+	margin: 20px 40px;
+}
+
+.bar-icon{
+	
+}
+
+.manu-icon{
+	background-color: black;
+	height: 2px;
+	width: 30px;
+	margin: 6px 0;
+}
+.row{
+	overflow:auto;
+}
+
+.col{
+	float: left;
+}
+
+.search-icon i{
+	font-size: 25px;
+	margin-left:20px;
+	margin-top:5px;
+}
+
+.page-name-image{
+	text-align: center;
+	margin-left: 440px;
+}
+
+.bell-icon{
+	font-size:30px;
+	opacity: 0.7;
+	margin-left:380px;
+	margin-top:5px;
+}
+
+.login-button-style{
+	margin-left:20px;
+	margin-top: 10px;
+}
+
+.login-button-style a{
+	padding:5px 15px;
+	color: skyblue;
+	border: 1px solid lightgray;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+
+.login-button-style a:hover{
+	color: blue;
+}
+
+.itemmenu {
+	overflow: auto;
+	margin-left:100px;
+	margin-right:100px;
+	border-top: 1px solid lightgray;
+	border-bottom: 2px solid gray;
+	padding: 15px;
+}
+
+.itemmenu a {
+	color:black;
+	font-size:16px;
+	text-align: center;
+	padding: 10px;
+	text-decoration: none;
+}
+
+#news-part-section{
+	margin:20px 40px;
+}
+
+.news-of-package{
+	display: block;
+	width:248px;
+	height: auto;	
+}
+
+.news-related-image{
+	margin-left: 10px;
+}
+
+.news-of-package-item-part{
+	display: block;
+	width:258px;
+	height: auto;
+	margin-left:25px;
+}
+
+.short-news-item-part{
+	display: inline-block;
+}
+
+.short-news-item-part-text{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-size: 16px;
+	display: block;
+	width: 170px;
+	margin-left: 10px;
+}
+
+.short-item-manu{
+	overflow: auto;
+	padding: 10px;
+	border-bottom: 1px solid lightgray;
+	margin-left: 40px;
+}
+
+.short-item-manu a{
+	color:black;
+	font-size:16px;
+	text-align: center;
+	font-weight: bold;
+	padding: 10px;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+.short-item-manu a:last-child{
+	margin-left:70px;
+}
+
+.numbering-news-part{
+	display: block;
+	width: 310px;
+	border-top: 1px solid lightgray;
+	margin: 10px 0;
+	padding: 15px;
+}
+
+.numbering-news-part div a{
+	text-decoration: none;
+	font-size: 50px;
+	font-family: serif;
+	color: gray;
+	opacity: 0.7;
+	
+}
+
+.numbering-news-part p a{
+	text-decoration: none;
+	font-size: 16px;
+	color: black;
+}
+
+.stop-please-section-news-part{
+	margin-top: 10px;
+}
+
+.stop-please-section-large-part-news{
+	width: 530px;
+	height: 350px;
+	background-repeat: no-repeat;
+	background-image:url("img/Virus_Outbreak_Trump_21271.jpg");
+	margin-left: 5px;
+}
+
+.stop-please-section-large-part-news a{
+	display: block;
+	width: 400px;
+	height: auto;
+	margin-left: 20px;
+	position: relative;
+	top: 140px;
+}
+
+.stop-please-section-short-part-news{
+	display: block;
+	width: 260px;
+	padding: 10px 5px;
+}
+
+.stop-please-section-short-part-news a img{
+	transition: 0.5s;
+}
+
+.stop-please-section-short-part-news a img:hover{
+	transform: scale(1.1);
+}
+
+.title-name-of-news{
+	margin-left: 40px;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+.capital-section-short-part:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.capital-section-short-part-news{
+	float: left;
+	padding: 5px;
+	margin-left: 40px;
+	width: 20%;
+}
+
+.country-section-large-part-news{
+	display: block;
+	width: 440px;
+	padding: 10px 5px;
+}
+
+.country-section-short-part-news{
+	display: block;
+	width: 260px;
+	padding: 10px 5px;
+	margin-left: 20px;
+}
+
+.short-type-ad{
+	margin-left: 60px;
+}
+
+#search-box-of-whole-country{
+	margin-left: 60px;
+	margin-top: 80px;
+	padding: 20px 0;
+}
+
+.style-of-search-box{
+	display:block;
+	width: 300px;
+	padding: 15px;
+	border: 1px solid lightgray;
+	margin-top: 30px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.style-of-search-box-icon{
+	display:block;
+	width: 300px;
+	padding: 15px;
+	text-align: center;
+	color: white;
+	margin-top: 25px;
+	border-radius: 10px;
+	cursor: pointer;
+	background-color:#0099FF;
+}
